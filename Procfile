@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT goal_tracker_rewards_1694.wsgi:application
